@@ -13,6 +13,6 @@
  3. Solve Heat equation (∂u/∂t = ∇²u) 
  4. Solve Stokes equation (∂u/∂t = v∇²**u** - ∇p, ∇ • **u** = 0)
 
- ![Mesh](https://imgur.com/a/izxPIQ2 "Triangle Mesh")
-<img src="https://imgur.com/a/izxPIQ2" alt="Alt text" width="300" height="200">
+
+<img src="images/Mesh.png" alt="Alt text" width="300" height="200">
 

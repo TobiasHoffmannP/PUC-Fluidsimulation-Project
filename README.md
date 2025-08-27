@@ -11,6 +11,8 @@
  1. Create Triangle mesh 
  2. Solve Poisson equation (∇²f(x, y) = g(x, y))
  3. Solve Heat equation (∂u/∂t = ∇²u) 
- 4. Solve Stokes equation (∂u/∂t = v∇² _u_ - ∇p, ∇ • _u_ = 0)
+ 4. Solve Stokes equation (∂u/∂t = v∇²**u** - ∇p, ∇ • **u** = 0)
 
  ![Mesh](https://imgur.com/a/izxPIQ2 "Triangle Mesh")
+<img src="https://imgur.com/a/izxPIQ2" alt="Alt text" width="300" height="200">
+

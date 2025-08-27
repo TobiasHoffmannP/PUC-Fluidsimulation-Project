@@ -9,11 +9,19 @@
 
 ## Workflow
  1. Create Triangle mesh 
- 2. Solve Poisson equation (∇²f(x, y) = g(x, y))
+ 2. Solve Poisson's equation (∇²f(x, y) = g(x, y))
  3. Solve Heat equation (∂u/∂t = ∇²u) 
  4. Solve Stokes equation (∂u/∂t = v∇²**u** - ∇p, ∇ • **u** = 0)
 
-![Triangle Mesh Used](images/Mesh.png)
+## Triangle Mesh
+<img src="images/Mesh.png" alt="Alt text" width="300" height="300">
 
-<img src="images/Mesh.png" alt="Alt text" width="300" height="200">
+## Poisson's Equation solver
+![Description of image](images/Poisson.png)
+
+## Heat Equation solver
+![Description of image](images/Heat.png)
+<iframe width="560" height="315" src="https://www.youtube.com/shorts/9Sp8aIewcIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 

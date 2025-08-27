@@ -24,6 +24,16 @@
 ### Demo video
 [![Watch the video](https://img.youtube.com/vi/9Sp8aIewcIs/0.jpg)](https://www.youtube.com/watch?v=9Sp8aIewcIs)
 
+## Stokes Equation solver
+![Description of image](images/Stokes_flow.png)
+[![Watch the video](https://www.youtube.com/watch?v=9Sp8aIewcIs/0.jpg)](https://www.youtube.com/shorts/8JrjHy0IETQ)
+
+
+### Visualizaton
+[![Watch the video](https://www.youtube.com/watch?v=tvDy6Wnsakc/0.jpg)](https://www.youtube.com/watch?v=9Sp8aIewcIs)
+[![Watch the video](https://www.youtube.com/watch?v=kH9ju5QBSCw/0.jpg)](https://www.youtube.com/watch?v=kH9ju5QBSCw)
+[![Watch the video](https://www.youtube.com/watch?v=d1kLsCGKszw/0.jpg)](https://www.youtube.com/watch?v=d1kLsCGKszw)
+
 
 
 

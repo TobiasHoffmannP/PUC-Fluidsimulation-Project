@@ -21,7 +21,9 @@
 
 ## Heat Equation solver
 ![Description of image](images/Heat.png)
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/9Sp8aIewcIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Demo video
+[![Watch the video](https://img.youtube.com/vi/9Sp8aIewcIs/0.jpg)](https://www.youtube.com/watch?v=9Sp8aIewcIs)
+
 
 
 

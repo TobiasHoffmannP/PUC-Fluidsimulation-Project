@@ -10,14 +10,14 @@ The project serves two purposes:
 ## Workflow  
 The development followed a bottom-up approach, starting with simpler PDEs and building towards the Stokes solver:  
 1. **Triangle mesh generation** of a 2D domain with a central squirmer.  
-2. **Poisson solver** via FEM for pressure projection.  
-3. **Heat equation solver** for time-dependent diffusion.  
-4. **Stokes solver** using operator splitting (velocity update → pressure correction → projection).  
+2. **Poisson solver** (∇²f(x, y) = g(x, y)) via FEM for pressure projection.  
+3. **Heat equation solver** (∂u/∂t = ∇²u) for time-dependent diffusion.  
+4. **Stokes solver** (∂u/∂t = ν∇²**u** − ∇p, ∇ • **u** = 0) using operator splitting (velocity update → pressure correction → projection).  
 
 ## Results  
 - A functioning **Poisson and heat equation solver** was implemented successfully.  
 - A **2D Stokes solver** was developed and stabilized via mass-lumped FEM, though non-zero divergence and checkerboarding effects limited accuracy.  
-- Despite instabilities, the solver enabled **visualization of squirmer-driven flows**, tracer advection, and mixing dynamics.  
+- Despite instabilities, the solver allowed **visualization of squirmer-driven flows**, tracer advection, and mixing dynamics.  
 - Simulations with different squirmer models (neutral, pusher, puller) showed that **pusher/puller strategies enhance mixing and food capture**, whereas the neutral swimmer is less effective.  
 
 ---

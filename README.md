@@ -51,3 +51,4 @@ Color mixing and tracer-based food capture were simulated under different squirm
 
 ---
 
+Credit: TobiasHoffmannP and Nikolaj (https://github.com/NikolajK1405)
